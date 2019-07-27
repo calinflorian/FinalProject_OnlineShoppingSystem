@@ -41,4 +41,5 @@ public class ProductDetails {
                 ", productQuantity=" + productQuantity +
                 '}';
     }
+
 }

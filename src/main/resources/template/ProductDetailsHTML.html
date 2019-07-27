@@ -1,0 +1,10 @@
+<html xmlns:th="http://www.thymeleaf.org">
+<head><title>Home Page</title></head>
+<body>
+<h1>Hello !</h1>
+
+<tr th:each="product : ${ProductDetails}">
+    <td th:text = "${product.productName}" />
+</tr>
+</body>
+</html>

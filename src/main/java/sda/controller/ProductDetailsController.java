@@ -29,6 +29,6 @@ ProductDetailsService productDetailsService;
 
     model.addAttribute("ProductDetails", allProductDetails);
 
-            return "produse";
+    return "ProductDetailsHTML";
 }
 }
