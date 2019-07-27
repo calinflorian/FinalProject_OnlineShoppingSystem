@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>sda.final</groupId>
-    <artifactId>changename</artifactId>
+    <artifactId>FinalAplication_OnlineShoppingSystem</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>changename</name>
     <description>Final SDA Application</description>
